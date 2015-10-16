@@ -27,6 +27,7 @@ public class MainScreenScript : MonoBehaviour
 		script_GameIntroMusic.Play(true);
 	}
 
+    // writing some new code
 	void OnGUI()
 	{
 		if(!playerNeedsName)
